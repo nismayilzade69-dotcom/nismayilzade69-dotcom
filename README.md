@@ -1,16 +1,31 @@
-## Hi there 👋
+# Salam, mən Nizami! 👋
 
-<!--
-**nismayilzade69-dotcom/nismayilzade69-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer & Cybersecurity Specialist | AgriTech Startup Founder
 
-Here are some ideas to get you started:
+- 🏆 **1st Place Winner** at Rebuild Karabakh Hackathon (2026)
+- 🌱 **Startup Founder** in the Agricultural Innovation Center ecosystem
+- 🎓 Studying **Computer Engineering** at Azerbaijan State Agricultural University (ADAU)
+- 🔒 Certified with **Google Cybersecurity Professional Certificate**
+- ⚡ Focusing on scalable web applications, secure software architectures, and interactive digital MVPs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** JavaScript (ES6+), Python, C++, SQL, HTML5/CSS3
+- **Frontend & Interactive:** React, Matter.js, Modern UI/UX
+- **Backend & Database:** Node.js, Express.js, PostgreSQL, RESTful APIs
+- **DevOps, Tools & Security:** Docker, Git/GitHub, Linux/Windows Administration, Cybersecurity Fundamentals
+
+---
+
+### 📌 Core Focus & Projects
+- 🌾 **AgriTech & Smart GIS:** Digital land management and agricultural investment systems
+- 🎮 **Interactive Web & Physics:** Matter.js physics-driven web engines and interactive apps
+- 🖥️ **System Telemetry & Automation:** Local desktop assistants, performance monitoring, and secure scripts
+
+---
+
+### 📫 Connect with me
+- 💼 **Email:** nismayilzade69@gmail.com
+- 📍 **Location:** Ganja / Baku, Azerbaijan
